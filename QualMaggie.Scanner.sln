@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QualMaggie.Scanner", "QualMaggie.Scanner.csproj", "{4DB35532-90F3-999C-17B1-58C5A1E6B008}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB35532-90F3-999C-17B1-58C5A1E6B008}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB35532-90F3-999C-17B1-58C5A1E6B008}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB35532-90F3-999C-17B1-58C5A1E6B008}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB35532-90F3-999C-17B1-58C5A1E6B008}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96B3DD4A-0FD0-435F-B4CD-D0FDB5486BF1}
+	EndGlobalSection
+EndGlobal
